@@ -38,6 +38,7 @@ Intelli-J
 Spring
 Hibernate
 Angular
+Figma - for wireframing
 
 ### What I'll Have to Learn
 
