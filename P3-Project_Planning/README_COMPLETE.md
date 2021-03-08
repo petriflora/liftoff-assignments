@@ -13,8 +13,8 @@ Format them as a bulleted/unordered list with links to the files.
 -   I made a full wireframe model of what I hope to get done for this project using Figma. 
     The wireframes are all pulled into one PDF file. There are 17 pages of wireframes representing
     the main site features plus user account creation and update. This includes my colors, fonts,
-    and other design features.
-    The link to the PDF is here: 
+    and other design features. Because there are so many pictures I didn't include them here.
+    The link to the PDF is here: https://drive.google.com/file/d/1kJC5MxjK4zjK5kP_iWzVa88kvjgyTt_5/view?usp=sharing
 
 ### Project Tracker
 
